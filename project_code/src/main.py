@@ -7,7 +7,7 @@ from enum import Enum
 
 class EventStatus(Enum):
     UNKNOWN = "unknown"
-    PASS = "pass"
+    PASS = "PASS"
     FAIL = "fail"
     PARTIAL_PASS = "partial_pass"
 
