@@ -10,6 +10,7 @@ class EventStatus(Enum):
     PASS = "PASS"
     FAIL = "fail"
     PARTIAL_PASS = "partial_pass"
+    CHAOS = "death and destruction"
 
 
 class Statistic:
